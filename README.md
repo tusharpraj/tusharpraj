@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharpraj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c and c++ language
+- 🌱
 - 📫 How to reach me =github
 
 <!---
